@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Link of page: https://cuestionariodesemper.netlify.app/
+project URL: https://cuestionariodesemper.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
